@@ -161,6 +161,7 @@ h2{
     height: 700px;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .gsection{
@@ -169,6 +170,7 @@ h2{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    overflow: hidden;
     border-radius: var(--button-button-corner-radius, 0px);
     background: var(--gradient-bg, linear-gradient(149deg, #040357 47.92%, #040378 67.19%, #222CE3 90.63%));
 }
@@ -194,6 +196,38 @@ h2{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+.HT-italic{
+    color: var(--black, #000);
+    font-family: Source Sans Pro;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.HT-bold{
+    color: var(--tertiary, #1A196F);
+    font-family: Source Sans Pro;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-bottom: 24px;
+}
+
+.subtitle-o{
+    color: var(--secondary-color, var(--secondary-ultimate-orange-60, #FB3E00));
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-bottom: 24px;
 }
 
 .h-container{
