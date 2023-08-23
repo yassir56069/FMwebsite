@@ -44,7 +44,7 @@
     flex-shrink: 0;
 }
 
-.o-cu{
+.o-btn{
     display: flex;
     padding: 10px 24px;
     justify-content: center;
@@ -55,11 +55,31 @@
     font-family: Roboto;
     font-size: 14px;
     font-style: normal;
+    border: none;
     font-weight: 500;
     line-height: 20px;
     letter-spacing: 0.1px;
     border-radius: var(--corner-radius-applied-corner-radius-button, 999px);
     background: var(--button-secondary-fill-default-state, #FB3E00);
+}
+
+.b-btn{
+    display: flex;
+    padding: 10px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    color: var(--button-secondary-text-on-default, #FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    border-radius: var(--corner-radius-applied-corner-radius-button, 999px);
+    background: var(--button-secondary-fill-default-state, #1A16E3);
 }
 
 a{
