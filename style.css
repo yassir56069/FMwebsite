@@ -11,6 +11,19 @@
     background-size: cover;
 }
 
+.home-header-section {
+    display: flex;
+    width: 100%;
+    padding-bottom: 0px;
+    contain: layout;
+    flex-direction: column;
+    align-items: center;
+    gap: 147px;
+    border-radius: var(--button-button-corner-radius, 0px);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.70) 85.86%), url(assets/Hero banner video.png), lightgray 50% / cover no-repeat;
+    background-size: cover;
+}
+
 .navigation-bar{
     display: flex;
     width: 100%;
