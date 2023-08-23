@@ -159,6 +159,16 @@ h2{
     align-items: center;
 }
 
+.gsection{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: var(--button-button-corner-radius, 0px);
+    background: var(--gradient-bg, linear-gradient(149deg, #040357 47.92%, #040378 67.19%, #222CE3 90.63%));
+}
+
 .o-head-text{
     color: var(--secondary-color, var(--secondary-ultimate-orange-60, #FB3E00));
     font-family: Source Sans Pro;
