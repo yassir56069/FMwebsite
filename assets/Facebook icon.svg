@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Facebook icon" clip-path="url(#clip0_1091_3603)">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M48 23.9949C48 10.7577 37.2423 0 23.9949 0C10.7577 0 0 10.7577 0 23.9949C0 37.2423 10.7577 48 24.0051 47.9899C37.2423 47.9899 48 37.2423 48 23.9949ZM25.8698 38.5072H20.0998L20.0898 38.497V23.9341H17.0898V18.9752H20.0898V15.0688C20.0898 11.4053 22.0198 9.49261 26.3198 9.49261H30.3198V14.5729H27.1998C26.0998 14.5729 25.8698 15.0283 25.8698 16.182V18.9752H30.3298L29.8998 23.8734H25.8698V38.5072Z" fill="url(#paint0_linear_1091_3603)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1091_3603" x1="-19.7333" y1="-59.8731" x2="35.6468" y2="66.0809" gradientUnits="userSpaceOnUse">
+<stop offset="0.479167" stop-color="#040357"/>
+<stop offset="0.671875" stop-color="#040378"/>
+<stop offset="0.90625" stop-color="#222CE3"/>
+</linearGradient>
+<clipPath id="clip0_1091_3603">
+<rect width="47.43" height="48" fill="white"/>
+</clipPath>
+</defs>
+</svg>
