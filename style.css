@@ -240,3 +240,29 @@ h2{
     flex-direction: column;
 }
 
+.footer-link{
+    color: var(--bodytext-color, #1B1B1E);
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 16px;
+    text-transform: inherit;
+}
+
+.footer-link:hover{
+    color: var(--hover-color, #1A196F);
+}
+
+.footer-link-box{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    align-self: stretch;
+}
+
+.social-link-btn{
+    width: 36px;
+    padding-right: 16; 
+}
