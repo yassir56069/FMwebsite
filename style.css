@@ -60,8 +60,17 @@ body::-webkit-scrollbar{
     justify-content: center;
     align-items: center;
     gap: 8px;
+    border: none;
     border-radius: var(--button-button-corner-radius, 64px);
     background: var(--button-background-color-accent, #03D739);
+    color: var(--button-text-text-on-accent, #000);
+    text-align: center;
+    font-family: Quicksand;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.5px;
 }
 
 .o-btn{
@@ -194,12 +203,11 @@ h2{
     background: var(--gradient-bg, linear-gradient(149deg, #040357 47.92%, #040378 67.19%, #222CE3 90.63%));
 }
 
-.g-head-text{
-    color: var(--iconekt-green, #00CA3A);
-
-    /* Desktop-Overline */
+.b-head-text{
+    color: var(--tertiary, #1A196F);
+    text-align: center;
     font-family: Source Sans Pro;
-    font-size: 24px;
+    font-size: 48px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -215,6 +223,16 @@ h2{
     line-height: normal;
     text-transform: uppercase;
     padding-bottom: 24px;
+}
+
+.g-head-text{
+    color: var(--iconekt-green, #00CA3A);
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
 }
 
 .body-text{
