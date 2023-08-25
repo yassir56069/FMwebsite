@@ -68,16 +68,29 @@ body::-webkit-scrollbar{
     flex-shrink: 0;
 }
 
+
+/* green button styling */
 .g-btn{
     display: flex;
     padding: 10px 24px;
     justify-content: center;
     align-items: center;
     gap: 8px;
+    border: none;
     border-radius: var(--button-button-corner-radius, 64px);
     background: var(--button-background-color-accent, #03D739);
+    color: var(--button-text-text-on-accent, #000);
+    text-align: center;
+    font-family: Quicksand;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.5px;
 }
 
+
+/* orange button styling */
 .o-btn{
     display: flex;
     padding: 10px 24px;
@@ -97,6 +110,8 @@ body::-webkit-scrollbar{
     background: var(--button-secondary-fill-default-state, #FB3E00);
 }
 
+
+/* blue button styling */
 .b-btn{
     display: flex;
     padding: 10px 24px;
@@ -136,9 +151,12 @@ a{
     text-transform: uppercase;
 }
 
+/* hover effect for navigation bar */
 a:hover{
     color: var(--hover-color, #FB3E00);
 }
+
+
 
 .page-link{
     display: flex;
@@ -186,8 +204,11 @@ h2{
     border-radius: var(--button-button-corner-radius, 0px);
 }
 
+
+/* white background section */
 .wsection{
     width: 100%;
+    background-color: #FFF;
     height: 700px;
     justify-content: center;
     align-items: center;
@@ -195,6 +216,7 @@ h2{
 }
 
 
+/* blue background section */
 .bsection{
     width: 100%;
     height: 700px;
@@ -204,6 +226,9 @@ h2{
     border-radius: var(--button-button-corner-radius, 0px);
     background: var(--tertiary, #1A196F);
 }
+
+
+/* gradient background section */
 .gsection{
     width: 100%;
     height: 700px;
@@ -214,18 +239,32 @@ h2{
     background: var(--gradient-bg, linear-gradient(149deg, #040357 47.92%, #040378 67.19%, #222CE3 90.63%));
 }
 
-.g-head-text{
-    color: var(--iconekt-green, #00CA3A);
-
-    /* Desktop-Overline */
+.card-head-text{
+    color: var(--bodytext-color, #1B1B1E);
     font-family: Source Sans Pro;
-    font-size: 24px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    float: left;
+    text-transform: uppercase;
+}
+
+
+/* blue head text */
+.b-head-text{
+    color: var(--tertiary, #1A196F);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 48px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
 }
 
+
+/* orange head text */
 .o-head-text{
     color: var(--secondary-color, var(--secondary-ultimate-orange-60, #FB3E00));
     font-family: Source Sans Pro;
@@ -235,6 +274,18 @@ h2{
     line-height: normal;
     text-transform: uppercase;
     padding-bottom: 24px;
+}
+
+
+/* green head text */
+.g-head-text{
+    color: var(--iconekt-green, #00CA3A);
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
 }
 
 .body-text{
@@ -249,6 +300,8 @@ h2{
     line-height: normal;
 }
 
+
+/* head text in italic */
 .HT-italic{
     color: var(--black, #000);
     font-family: Source Sans Pro;
@@ -259,6 +312,8 @@ h2{
     text-transform: uppercase;
 }
 
+
+/* head text in bold */
 .HT-bold{
     color: var(--tertiary, #1A196F);
     font-family: Source Sans Pro;
@@ -270,6 +325,8 @@ h2{
     padding-bottom: 24px;
 }
 
+
+/* subtitle in orange */
 .subtitle-o{
     color: var(--secondary-color, var(--secondary-ultimate-orange-60, #FB3E00));
     font-family: Source Sans Pro;
@@ -281,11 +338,15 @@ h2{
     padding-bottom: 24px;
 }
 
+
+/* horizontal container  */
 .h-container{
     display: flex;
     flex-direction: row;
 }
 
+
+/* vertical container  */
 .v-container{
     display: flex;
     flex-direction: column;
