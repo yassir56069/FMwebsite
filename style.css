@@ -210,6 +210,7 @@ h2{
     width: 100%;
     background-color: #FFF;
     height: 700px;
+    display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
@@ -232,6 +233,7 @@ h2{
 .gsection{
     width: 100%;
     height: 700px;
+    display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
@@ -343,6 +345,7 @@ h2{
 .h-container{
     display: flex;
     flex-direction: row;
+    justify-content: left;
 }
 
 
@@ -350,6 +353,7 @@ h2{
 .v-container{
     display: flex;
     flex-direction: column;
+    justify-content: left;
 }
 
 .footer-link{
