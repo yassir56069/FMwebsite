@@ -388,8 +388,8 @@ h2{
 
 
 .fbrot {
-
-    padding:182px 0px 0px; display: flex; justify-content: center;
+    display: flex; 
+    justify-content: center;
 }
 
 
@@ -402,6 +402,7 @@ h2{
 
 .rottext
 {
+    width: 312px;
     padding-left: 152px;
     flex-shrink: 0;
     color: var(--bodytext-color, #1B1B1E);
