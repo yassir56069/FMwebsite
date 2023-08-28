@@ -313,6 +313,16 @@ h2{
     text-transform: uppercase;
 }
 
+.black-head-text{
+    color: var(--bodytext-color, #1B1B1E);
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
 .body-text{
     width: 345px;
     height: 112px;
@@ -470,47 +480,37 @@ h2{
     transition: 0.5s;
 }
 
-.carousel {
-    position: relative;
-    width: 985px;
-    height: 252px;
-    overflow: hidden;
-    background-color: #fff;
+.slides {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
 }
-.carousel .item {
-    position: absolute;
+.slides > div {
+    display: flex;
+    flex-shrink: 0;
     width: 100%;
-    height: 100%;
-    text-align: center;
+    height: 300px;
+    scroll-snap-align: start;
+    scroll-behavior: smooth;
 }
 
-.carousel .slide-in {
-    -webkit-transform: translate3d(-90%, 0px, 0px);
-    -moz-transform: translate3d(-90%, 0px, 0px);
-    -ms-transform: translate3d(-90%, 0px, 0px);
-    -o-transform: translate(-90%, 0px, 0px);
-    transform: translate3d(-90%, 0px, 0px);
-    -webkit-transition: -webkit-transform 0.5s ease-out;
-    -moz-transition: -moz-transform 0.5s ease-out;
-    -ms-transition: -ms-transform 0.5s ease-out;
-    -o-transition: -o-transform 0.5s ease-out;
-    transition: transform 0.5s ease-out;
-    z-index: 1;
-    }
-    .carousel .slide-in:target ~ .slide-in {
-    -webkit-transform: translate3d(90%, 0px, 0px);
-    -moz-transform: translate3d(90%, 0px, 0px);
-    -ms-transform: translate3d(90%, 0px, 0px);
-    -o-transform: translate(90%, 0px, 0px);
-    transform: translate3d(90%, 0px, 0px);
-    } <xmp>.carousel .slide-in:target {
-    -webkit-transform: translate3d(0px, 0px, 0px);
-    -moz-transform: translate3d(0px, 0px, 0px);
-    -ms-transform: translate3d(0px, 0px, 0px);
-    -o-transform: translate(0px, 0px, 0px);
-    transform: translate3d(0px, 0px, 0px);
-    z-index: 3;
-    }
-    .carousel .slide-in:target + .slide-in {
-    z-index: 2;
-    }
+.team-card-textblock{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 263px;
+    height: 168px;
+    position: relative;
+    border-radius: 20px;
+    background: #F9F9FB;
+}
+
+.team-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 312px;
+    height: 223px;
+    flex-shrink: 0;
+    border-radius: 20px;
+}
