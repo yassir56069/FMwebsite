@@ -241,6 +241,15 @@ h2{
     background: var(--gradient-bg, linear-gradient(149deg, #040357 47.92%, #040378 67.19%, #222CE3 90.63%));
 }
 
+.g-block{
+    width: 263px;
+    height: 168px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: var(--gradient-bg, linear-gradient(149deg, #040357 47.92%, #040378 67.19%, #222CE3 90.63%));
+    margin-right: 33px;
+}
+
 .card-head-text{
     color: var(--bodytext-color, #1B1B1E);
     font-family: Source Sans Pro;
@@ -252,6 +261,20 @@ h2{
     text-transform: uppercase;
 }
 
+.w-head-text-FT{
+    color: var(--white, #FFF);
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 231px;
+    height: 56px;
+    padding-top: 28px;
+    padding-left: 16px;
+    padding-bottom: 24px;
+}
 
 /* blue head text */
 .b-head-text{
