@@ -503,6 +503,7 @@ h2{
     position: relative;
     border-radius: 20px;
     background: #F9F9FB;
+    padding-left: 16px;
 }
 
 .team-card{
@@ -513,4 +514,11 @@ h2{
     height: 223px;
     flex-shrink: 0;
     border-radius: 20px;
+    margin-top: 20px;
+}
+
+.team-png{
+    position: absolute;
+    margin-left: 172px;
+    margin-top: -15px;
 }
