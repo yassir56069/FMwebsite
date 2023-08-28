@@ -518,7 +518,16 @@ h2{
 }
 
 .team-png{
-    position: absolute;
-    margin-left: 172px;
+    position: relative;
+    margin-left: -90px;
     margin-top: -15px;
+}
+
+.FT-Link-Container{
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    justify-content: left;
+    padding-top: 193px;
+    padding-left: 100px;
 }
