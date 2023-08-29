@@ -449,8 +449,8 @@ h2{
 .fbrot {
     display: flex; 
     justify-content: center;
+    position: absolute;
 }
-
 
 .rotsvg
 {
@@ -461,6 +461,7 @@ h2{
 
 .rottext
 {
+
     width: 312px;
     padding-left: 152px;
     flex-shrink: 0;
@@ -470,26 +471,26 @@ h2{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-
     display: none;
+    
+    position: absolute;
 }
 
 .fbrot:hover .rotsvg{
-    z-index: -1;
     opacity:0.2;
 }
   
 .fbrot .rotsvg:hover{
-    z-index: 1;
     opacity:1;
 }
+
 
 .rotblock:hover .rottext { display: block; }
 
 .rotblock:not(:hover) .rottext { display: none; }
 
 .fbrot:hover {
-    transform: scale(0.7);
+    transform: scale(0.8);
     transition-timing-function: ease;
     transition: 0.4s;
 }
@@ -501,7 +502,7 @@ h2{
 }
 
 .fbrot .rotblock:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition-timing-function: ease;
     transition: 0.5s;
 }
