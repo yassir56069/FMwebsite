@@ -162,6 +162,15 @@ body::-webkit-scrollbar{
     background: var(--button-secondary-fill-default-state, #1A16E3);
 }
 
+.hastag{
+    color: var(--secondary-color, var(--secondary-ultimate-orange-60, #FB3E00));
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
 a{
     display: flex;
     width: auto;
