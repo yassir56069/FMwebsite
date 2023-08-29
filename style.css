@@ -217,6 +217,17 @@ h2{
     border-radius: var(--button-button-corner-radius, 0px);
 }
 
+/* text containers */
+
+.text-container {
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    border-radius: var(--button-button-corner-radius, 0px);
+}
+
 
 /* white background section */
 .wsection{
@@ -289,6 +300,7 @@ h2{
     padding-bottom: 24px;
 }
 
+
 /* blue head text */
 .b-head-text{
     color: var(--tertiary, #1A196F);
@@ -314,12 +326,28 @@ h2{
     padding-bottom: 24px;
 }
 
+/* orange # text */
+
+.hashtag {
+    color: var(--secondary-color, var(--secondary-ultimate-orange-60, #FB3E00));
+}
 
 /* green head text */
 .g-head-text{
     color: var(--iconekt-green, #00CA3A);
     font-family: Source Sans Pro;
     font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+/* Desktop-H3 */
+.dh3 {
+    color: var(--bodytext-color, #1B1B1E);
+    font-family: Source Sans Pro;
+    font-size: 32px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
