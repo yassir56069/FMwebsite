@@ -436,7 +436,7 @@ h2{
 .fbrot {
     display: flex; 
     justify-content: center;
-
+    position: absolute;
 }
 
 .rotsvg
@@ -458,18 +458,16 @@ h2{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-
     display: none;
+    
     position: absolute;
 }
 
 .fbrot:hover .rotsvg{
-    z-index: -1;
     opacity:0.2;
 }
   
 .fbrot .rotsvg:hover{
-    z-index: 1;
     opacity:1;
 }
 
