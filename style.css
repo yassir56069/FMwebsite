@@ -89,7 +89,7 @@ body::-webkit-scrollbar{
     gap: 130px;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(180deg, rgba(0, 0, 86, 0.62) 0%, rgba(8, 0, 57, 0.37) 16.67%, rgba(0, 0, 0, 0.00) 94.72%);
+    background: linear-gradient(180deg, rgba(0, 0, 86, 0.62) 0%, rgba(8, 0, 57, 0.37) 16.67%, rgba(0, 0, 0, 0.00) 74.72%);
     transition: top 0.3s;
 }
 
@@ -123,6 +123,7 @@ body::-webkit-scrollbar{
 
 /* orange button styling */
 .o-btn{
+    min-width: 114px;
     display: flex;
     padding: 10px 24px;
     justify-content: center;
