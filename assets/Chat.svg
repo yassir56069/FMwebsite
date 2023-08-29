@@ -1,0 +1,25 @@
+<svg width="62" height="62" viewBox="0 0 62 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Chat" filter="url(#filter0_d_1156_9348)">
+<circle id="Ellipse 13" cx="31" cy="27" r="27" fill="#FB3E00"/>
+<g id="chat">
+<mask id="mask0_1156_9348" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="15" y="11" width="32" height="32">
+<rect id="Bounding box" x="15" y="11" width="32" height="32" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_1156_9348)">
+<path id="chat_2" d="M23.334 29.3334H33.3339V27.3335H23.334V29.3334ZM23.334 25.3334H38.6673V23.3335H23.334V25.3334ZM23.334 21.3334H38.6673V19.3335H23.334V21.3334ZM18.334 39.0513V16.7438C18.334 16.0703 18.5673 15.5002 19.034 15.0335C19.5007 14.5668 20.0707 14.3335 20.7443 14.3335H41.257C41.9305 14.3335 42.5006 14.5668 42.9673 15.0335C43.4339 15.5002 43.6673 16.0703 43.6673 16.7438V31.9232C43.6673 32.5967 43.4339 33.1668 42.9673 33.6334C42.5006 34.1001 41.9305 34.3334 41.257 34.3334H23.0519L18.334 39.0513Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1156_9348" x="0" y="0" width="62" height="62" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1156_9348"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1156_9348" result="shape"/>
+</filter>
+</defs>
+</svg>
