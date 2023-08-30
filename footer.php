@@ -16,14 +16,14 @@
                         QUICK LINKS
                     </p>
                     <div class="footer-link-box">
-                        <a class="footer-link" href="about_us.html">About us</a>
-                        <a class="footer-link" href="flashbuild.html" target="blank">Flashbuild</a>
-                        <a class="footer-link" href="strategy&innovation.html" target="blank">Strategy & Innovation</a>
-                        <a class="footer-link" href="design.html" target="blank">Design</a>
-                        <a class="footer-link" href="immersive.html" target="blank">Immersive</a>
-                        <a class="footer-link" href="iot.html" target="blank">IOT</a>
-                        <a class="footer-link" href="research&design.html" target="blank">Research & design</a>
-                        <a class="footer-link" href="contact.html" target="blank">Contact</a>
+                        <a class="footer-link" href="about_us.php">About us</a>
+                        <a class="footer-link" href="flashbuild.php" target="blank">Flashbuild</a>
+                        <a class="footer-link" href="strategy&innovation.php" target="blank">Strategy & Innovation</a>
+                        <a class="footer-link" href="design.php" target="blank">Design</a>
+                        <a class="footer-link" href="immersive.php" target="blank">Immersive</a>
+                        <a class="footer-link" href="iot.php" target="blank">IOT</a>
+                        <a class="footer-link" href="research&design.php" target="blank">Research & design</a>
+                        <a class="footer-link" href="contact.php" target="blank">Contact</a>
                     </div>
                 </div>
                 <div>
