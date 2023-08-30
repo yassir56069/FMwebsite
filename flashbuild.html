@@ -12,10 +12,10 @@
                 <div class="navigation-bar">
                     <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.html'" alt="Fantastic Mind Logo">
                     <div class="page-link">
-                        <a href="about_us.html">about us</a> 
-                        <a href="services.html">services</a> 
-                        <a href="iot_solution.html">iot solution</a> 
-                        <a href="research&design.html">research & design</a>
+                        <a href="about_us.php">about us</a> 
+                        <a href="services.php">services</a> 
+                        <a href="iot_solution.php">iot solution</a> 
+                        <a href="research&design.php">research & design</a>
                     </div>
                     <button class="o-btn">Contact Us</button>
                 </div>
