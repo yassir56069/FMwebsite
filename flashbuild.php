@@ -104,7 +104,7 @@
             <img style="padding-right: 118px;" src="assets/Flashbuild_Iconekt.png" alt="Insurtech App Photo">
             <div class="h-container">
 
-                <div class="v-container"">
+                <div class="v-container">
                     <div class="text-container">
                         <p class="dh3">
                             iconekt app
