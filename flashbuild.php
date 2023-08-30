@@ -10,7 +10,7 @@
 <body>
         <header class="FB-header-section">
                 <div class="navigation-bar">
-                    <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.html'" alt="Fantastic Mind Logo">
+                    <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.php'" alt="Fantastic Mind Logo">
                     <div class="page-link">
                         <a href="about_us.php">about us</a> 
                         <a href="services.php">services</a> 
