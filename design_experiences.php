@@ -154,7 +154,7 @@
 
 
                 <!--- Research & Design -->
-
+                <!-- insuretech app -->
                 <div class="wsection">
                     <div class="h-container">
                         <div class="v-container">
@@ -178,7 +178,7 @@
 
 
                  <!--- Research & Design -->
-
+                <!-- iconekt app -->
                  <div class="wsection">
                     <div class="h-container">
                         <img style="width: 560px; height: 388px;margin-right: 88px;" src="assets/d_exp_iconekt_app.png" alt="phone">
