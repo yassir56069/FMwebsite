@@ -16,10 +16,10 @@
                 <div class="navigation-bar" >
                     <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.html'" alt="Fantastic Mind Logo">
                     <div class="page-link">
-                        <a href="about_us.html">about us</a> 
-                        <a href="services.html">services</a> 
-                        <a href="iot_solution.html">iot solution</a> 
-                        <a href="research&design.html">research & design</a>
+                        <a href="about_us.php">about us</a> 
+                        <a href="services.php">services</a> 
+                        <a href="iot_solution.php">iot solution</a> 
+                        <a href="research&design.php">research & design</a>
                     </div>
                     <button class="o-btn nav-button">Contact Us</button>
                 </div>
@@ -252,7 +252,7 @@
 
              <!-- About us section 8 (footer) -->
 
-            <iframe src="footer.html" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+            <iframe src="footer.php" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
         </body>
