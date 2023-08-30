@@ -121,7 +121,7 @@
             </div>
         </section>
 
-        <iframe src="footer.html" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+        <iframe src="footer.php" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 </body>
 </html>
