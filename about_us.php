@@ -1,5 +1,4 @@
 <DOCTYPE html>
-    
     <html>
         <head>
             <meta charset ="UTF-8">
@@ -12,18 +11,11 @@
         <!-- About us section 1 (homepage) -->
 
         <body>               
-            <div class="navbar-container">
-                <div class="navigation-bar" >
-                    <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.php'" alt="Fantastic Mind Logo">
-                    <div class="page-link">
-                        <a href="about_us.php">about us</a> 
-                        <a href="services.php">services</a> 
-                        <a href="iot_solution.php">iot solution</a> 
-                        <a href="r&d_use_case.php">research & design</a>
-                    </div>
-                    <button class="o-btn nav-button">Contact Us</button>
-                </div>
-            </div>
+
+            <?php 
+            include_once 'header.php';
+            ?>
+            
 
             <div class="AU-header-section">
 

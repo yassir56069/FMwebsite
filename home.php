@@ -8,26 +8,19 @@
             <link rel="stylesheet" href="style.css">
         </head>
         <body>
+
+            <?php 
+            include_once 'header.php';
+            ?>
             <!-- navigation-bar -->
-            <div class="home-header-section">
-                <div class="navigation-bar">
-                    <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.php'" alt="Fantastic Mind Logo">
-                    <div class="page-link">
-                        <a href="about_us.php">about us</a> 
-                        <a href="services.php">services</a> 
-                        <a href="iot_solution.php">iot solution</a> 
-                        <a href="r&d_use_case.php">research & design</a>
-                    </div>
-                    <button class="o-btn">Contact Us</button>
-                </div>
+            <header class="home-header-section">
                 <div class="v-container" style="align-items: center;">
                     <img style="height: 192px; width: 192px; padding-top: 243px;padding-bottom: 247px;" src="assets/play_circle.svg" alt="play">
                     <img style="height: 24px; width: 24px;" src="assets/expand_less.svg" alt="expand less">
                     <p class="header-text">Scroll to reveal</p>
                 </div>
-            </div>
+            </header>
 
-            
              <!-- home section 2 (creative,innovative and playful ) -->
 
             <div class="wsection">
