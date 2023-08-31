@@ -4,12 +4,12 @@
             <meta charset ="UTF-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Research and Design</title>
+            <title>insuretech</title>
             <link rel="stylesheet" href="style.css">
         </head>
         <body>
             <!-- navigation-bar -->
-            <div class="rd-header-section">
+            <div class="insuretech-header-section">
                 <div class="navigation-bar">
                     <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.php'" alt="Fantastic Mind Logo">
                     <div class="page-link">
@@ -43,11 +43,11 @@
                         <p class="body-text" style="width: 1198px;height: 40px;padding-bottom: 24px">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar ipsum est, et hendrerit nulla dignissim a. Mauris quis lobortis ex. Maecenas ultrices facilisis orci, at molestie tortor tincidunt dignissim.
                         </p>
+                        <p class="b-head-text" style="padding-bottom: 72px;font-size: 36px;text-align: left;">
+                            Research & design
+                        </p>
                         <div class="h-container">
-                            <div class="v-container">
-                                <p class="b-head-text" style="padding-bottom: 72px;">
-                                    Research & design
-                                </p>
+                            <div class="v-container" style="padding-left: 24px;">
                                 <p class="black-head-text">
                                     insuretech app
                                 </p>
