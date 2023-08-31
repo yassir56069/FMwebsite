@@ -54,8 +54,8 @@
                 <div class="h-container" style="width: 1183px;">
                     <div class="v-container" style="width: 422px;padding-right: 16px;">
                         <p class="HT-italic">
-                            Let's embark on a<br /> 
-                            journey of
+                            Let's embark on<br /> 
+                            a journey of
                         </p>
                         <img style="width: 245px;padding-top: 6px;padding-bottom: 6px;" src="assets/discovery.svg" alt="discovery">
                         <p class="HT-italic">
