@@ -248,13 +248,23 @@ a{
 }
 
 /* hover effect for navigation bar */
-a:hover{
+.page-link a:hover{
     color: var(--hover-color, #FB3E00);
+
+}
+
+.megamenu {
+    display: none;
+}
+
+.page-link-box:hover .megamenu
+{
+    display:block;
+    color: red;
 }
 
 
-
-.page-link{
+.page-link-box {
     display: flex;
     width: 655px;
     padding: 24px;
