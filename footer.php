@@ -22,7 +22,7 @@
                         <a class="footer-link" href="design.php" target="blank">Design</a>
                         <a class="footer-link" href="immersive_journey.php" target="blank">Immersive</a>
                         <a class="footer-link" href="iot.php" target="blank">IOT</a>
-                        <a class="footer-link" href="research&design.php" target="blank">Research & design</a>
+                        <a class="footer-link" href="r&d_use_case.php" target="blank">Research & design</a>
                         <a class="footer-link" href="contact.php" target="blank">Contact</a>
                     </div>
                 </div>

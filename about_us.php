@@ -19,7 +19,7 @@
                         <a href="about_us.php">about us</a> 
                         <a href="services.php">services</a> 
                         <a href="iot_solution.php">iot solution</a> 
-                        <a href="research&design.php">research & design</a>
+                        <a href="r&d_use_case.php">research & design</a>
                     </div>
                     <button class="o-btn nav-button">Contact Us</button>
                 </div>
