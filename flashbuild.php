@@ -74,52 +74,50 @@
         </section>
 
         <img src="assets/Flashbuild_Video.png" alt="Flashbuild Video" style="margin-top: 237px; width: 100%;">
-        <section class="wsection">
-
-            <div class="h-container">
-
-                <div class="v-container"">
-                    <p class="HT-bold" style="padding-bottom: 48px;" >
-                        RESEARCH & DESIGN
-                    </p>
-                    <div class="text-container">
-                        <p class="dh3">
-                            INSURTECH APP
-                        </p>
-                        <p class="hashtag" style="padding-left: 0px;">#Flashbuild #Insurtech</p>
-                        <p class="body-text" style="height: auto;">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a tellus velit. Donec in turpis aliquam, tristique est id, scelerisque risus. Curabitur pharetra tortor quis posuere varius. Nunc in massa lorem. Morbi molestie, lectus at scelerisque lacinia, ligula orci cursus dolor, quis rhoncus tortor mauris eget arcu. Duis aliquet finibus nunc ac hendrerit. Ut eget enim sed elit fringilla porta. Quisque quis aliquam dolor. Donec diam enim, mattis quis elementum ut, convallis ut eros. Curabitur in vehicula est. 
-                        </p>
-                        <button class="b-btn" style="width: 141px;">View case study</button>
+        <!--- Research & Design -->
+                <!-- insuretech app -->
+                <div class="wsection">
+                    <div class="h-container">
+                        <div class="v-container">
+                            <p class="b-head-text" style="padding-bottom: 72px;">
+                                Research & design
+                            </p>
+                            <p class="black-head-text">
+                                insuretech app
+                            </p>
+                            <p class="hastag" style="padding-top: 32px;padding-bottom: 32px;">
+                                #Flashbuild #InsurTech
+                            </p>
+                            <p class="body-text" style="width: 423px;height: 180px;padding-bottom: 32px;">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a tellus velit. Donec in turpis aliquam, tristique est id, scelerisque risus. Curabitur pharetra tortor quis posuere varius. Nunc in massa lorem. Morbi molestie, lectus at scelerisque lacinia, ligula orci cursus dolor, quis rhoncus tortor mauris eget arcu. Duis aliquet finibus nunc ac hendrerit. Ut eget enim sed elit fringilla porta. Quisque quis aliquam dolor. Donec diam enim, mattis quis elementum ut, convallis ut eros. Curabitur in vehicula est. 
+                            </p>
+                            <button class="b-btn" style="width: 151px;">View case study</button>
+                        </div>
+                        <img style="width: 598px; height: 404px;margin-top: 117px;margin-left: 88px;" src="assets/research&design-pic.png" alt="phone">
                     </div>
-
                 </div>
-                <div>
-                    <img style="padding-left: 90px;padding-top: 139px; padding-right: 138px;" src="assets/Flashbuild_Insurtech.png" alt="Insurtech App Photo">
+
+
+                 <!--- Research & Design -->
+                <!-- iconekt app -->
+                 <div class="wsection">
+                    <div class="h-container">
+                        <img style="width: 560px; height: 388px;margin-right: 88px;" src="assets/d_exp_iconekt_app.png" alt="phone">
+                        <div class="v-container">
+                            <p class="black-head-text" style="margin-top: 10px;">
+                                iconekt app
+                            </p>
+                            <p class="hastag" style="padding-top: 32px;padding-bottom: 32px;">
+                                #IOT #Data visualisation
+                            </p>
+                            <p class="body-text" style="width: 423px;height: 180px;padding-bottom: 32px;">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a tellus velit. Donec in turpis aliquam, tristique est id, scelerisque risus. Curabitur pharetra tortor quis posuere varius. Nunc in massa lorem. Morbi molestie, lectus at scelerisque lacinia, ligula orci cursus dolor, quis rhoncus tortor mauris eget arcu. Duis aliquet finibus nunc ac hendrerit. Ut eget enim sed elit fringilla porta. Quisque quis aliquam dolor. Donec diam enim, mattis quis elementum ut, convallis ut eros. Curabitur in vehicula est. 
+                            </p>
+                            <button class="b-btn" style="width: 151px;">View case study</button>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
-
-        <section class="wsection">
-            <img style="padding-right: 118px;" src="assets/Flashbuild_Iconekt.png" alt="Insurtech App Photo">
-            <div class="h-container">
-
-                <div class="v-container">
-                    <div class="text-container">
-                        <p class="dh3">
-                            iconekt app
-                        </p>
-                        <p class="hashtag" style="padding-left: 0px;">#IOT #DataVisualisation</p>
-                        <p class="body-text" style="height: auto;">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a tellus velit. Donec in turpis aliquam, tristique est id, scelerisque risus. Curabitur pharetra tortor quis posuere varius. Nunc in massa lorem. Morbi molestie, lectus at scelerisque lacinia, ligula orci cursus dolor, quis rhoncus tortor mauris eget arcu. Duis aliquet finibus nunc ac hendrerit. Ut eget enim sed elit fringilla porta. Quisque quis aliquam dolor. Donec diam enim, mattis quis elementum ut, convallis ut eros. Curabitur in vehicula est. 
-                        </p>
-                        <button class="b-btn" style="width: 141px;">View case study</button>
-                    </div>
-
-                </div>
-
-            </div>
-        </section>
 
         <iframe src="footer.php" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 

@@ -21,7 +21,10 @@
                     <button class="o-btn">Contact Us</button>
                 </div>
                 <div class="header-text">
-                    <img style="width: 305px;padding-bottom: 24px;" src="assets/elevate-craft-masterpiece.svg" alt="elevate-craft-masterpiece">
+                    <h2>
+                        ELEVATE, CRAFT <br />
+                        MASTERPIECE
+                    </h2>
                     <p style="text-align: center;">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor diam non  <br /> 
                         porta hendrerit. Nunc aliquet, est ac dapibus maximus, enim metus.
