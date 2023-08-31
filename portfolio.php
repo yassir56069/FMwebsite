@@ -167,12 +167,12 @@
                     <div style="float: right;">
                         <div class="v-container" style="padding-right: 153px;">
                             <div class="h-container" style="padding-top: 32px;">
-                                <img style="width: 187px;" src="assets/testing.svg" alt="testing" >
+                                <img style="width: 187px;padding-right: 10px;" src="assets/testing.svg" alt="testing" >
                                 <p class="HT-italic">
                                     Your products
                                 </p>
                             </div>
-                            <p class="HT-italic">
+                            <p class="HT-italic" style="padding-top:12px;">
                                 for any issues
                             </p>
                             <p class="body-text" style="width: 525px; height: 78px;padding-bottom: 93px;padding-top: 45px;">
