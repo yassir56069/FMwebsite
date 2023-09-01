@@ -24,15 +24,15 @@ session_start();
             echo '<a  class="page-link" href="{$about_us}">about us</a>';
             echo '</li>';
             echo '<li>';
-            echo '<a class="page-link" href="services.php">services</a>';
+            echo '<a class="page-link" href="{$services}">services</a>';
             echo '';
             echo '</li>';
             echo '<li>';
-            echo '<a class="page-link" href="iot_solution.php">iot solution</a>';
+            echo '<a class="page-link" href="{$iot_solution}">iot solution</a>';
             echo '';
             echo '</li>';
             echo '<li>';
-            echo '<a class="page-link" href="r&d_use_case.php">research & design</a>';
+            echo '<a class="page-link" href="{$iot_solution}">research & design</a>';
             echo '</li>';
         ?>
 
