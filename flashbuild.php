@@ -34,7 +34,7 @@
             <div style="width: 1184px;">
             <div class="h-container" style="width: 100%; height: 198px;margin-bottom: 82px;display: inline-block;">
                 <div class="v-container"style="width: 376px; height: 198px;float: left;">
-                    <p class="o-head-text" style="padding: bottom 24px;">
+                    <p class="o-head-text" style="padding-bottom: 24px;">
                         WHAT IS FLASHBUILD?
                     </p>
                     <p class="body-text" style="padding-bottom: 24px;">
