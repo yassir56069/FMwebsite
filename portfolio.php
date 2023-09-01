@@ -148,7 +148,7 @@
                     <p class="body-text" style="width: 296px;padding-top: 257px;height: 78px;padding-bottom: 64px;">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a tellus velit. Donec in turpis aliquam, tristique est id, scelerisque risus. Curabitur pharetra tortor quis posuere 
                     </p>
-                    <video width="297" height="634" loop>
+                    <video width="297" height="634" controls>
                         <source src="assets/prototype_video.mp4" type="video/mp4">
                       </video>
                 </div>
