@@ -140,6 +140,17 @@ body::-webkit-scrollbar{
 
 }
 
+.CU-text {
+    color: var(--White, #FFF);
+    font-family: Source Sans Pro;
+    font-size: 50.77px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    align-items: left;
+}
+
 .navbar-container {
     position: fixed;
     right: 0; top: 0px;
