@@ -247,21 +247,23 @@ a{
     text-transform: uppercase;
 }
 
+/* megamenu */
+ 
 /* hover effect for navigation bar */
-.page-link a:hover{
+.page-link:hover{
     color: var(--hover-color, #FB3E00);
 
+}
+
+.page-link:hover .megamenu{
+    display:block;
+    background-color: red;
 }
 
 .megamenu {
     display: none;
 }
 
-.page-link-box:hover .megamenu
-{
-    display:block;
-    color: red;
-}
 
 
 .page-link-box {
