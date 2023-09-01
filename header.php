@@ -9,7 +9,7 @@ session_start();
 
 ?>
 
-<nav class="navbar-container">
+<nav class="navbar-container megamenu">
     <div class="navigation-bar" >
         <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.php'" alt="Fantastic Mind Logo">
         <ul class="page-link-box ">
@@ -39,8 +39,8 @@ session_start();
         <button class="o-btn nav-button">Contact Us</button>
     </div>
     
-    <section class="megamenu">
-            TEST 
+    <section class="h-container mgm-text">
+        <h1 class='mgm-header'> About Us </h1>
     </section>
 </nav>
 

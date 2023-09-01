@@ -261,10 +261,25 @@ a{
 }
 
 .megamenu {
-    display: none;
+    border-radius: var(--button-button-corner-radius, 0px);
+    background: rgba(0, 0, 86, 0.90);
+    height: 522;
 }
 
+.mgm-text {
+    display: flex;
+    flex-shrink: 0;
+}
 
+.mgm-header {
+    padding-left: 160px;
+    color: var(--White, #FFF);
+    font-family: Source Sans Pro;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110.7%; /* 53.136px */
+}
 
 .page-link-box {
     display: flex;
