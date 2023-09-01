@@ -15,24 +15,24 @@ session_start();
         <ul class="page-link-box">
         <?php
 
-        $about_us       = 'about_us.php';
-        $services       = 'services.php';
-        $iot_solution   = 'iot_solution.php';
-        $rnd_usecase    = 'r&d_use_case.php';
+            $about_us       = 'about_us.php';
+            $services       = 'services.php';
+            $iot_solution   = 'iot_solution.php';
+            $rnd_usecase    = 'r&d_use_case.php';
 
             echo '<li>';
-            echo '<a  class="page-link" href="{$about_us}">about us</a>';
+            echo "<a  class='page-link' href='{$about_us}'>about us</a>";
             echo '</li>';
             echo '<li>';
-            echo '<a class="page-link" href="{$services}">services</a>';
+            echo "<a class='page-link' href='{$services}'>services</a>";
             echo '';
             echo '</li>';
             echo '<li>';
-            echo '<a class="page-link" href="{$iot_solution}">iot solution</a>';
+            echo "<a class='page-link' href='{$iot_solution}'>iot solution</a>";
             echo '';
             echo '</li>';
             echo '<li>';
-            echo '<a class="page-link" href="{$iot_solution}">research & design</a>';
+            echo "<a class='page-link' href='{$iot_solution}'>research & design</a>";
             echo '</li>';
         ?>
 
