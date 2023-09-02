@@ -14,10 +14,10 @@
             ?>
             <!-- navigation-bar -->
             <header class="home-header-section">
-                <div class="v-container" style="align-items: center;">
-                    <img style="height: 192px; width: 192px; padding-top: 243px;padding-bottom: 247px;" src="assets/play_circle.svg" alt="play">
+                <div class="header-text">
+                    <img style="height: 192px; width: 192px;padding-bottom: px;" src="assets/play_circle.svg" alt="play">
                     <img style="height: 24px; width: 24px;" src="assets/expand_less.svg" alt="expand less">
-                    <p class="header-text">Scroll to reveal</p>
+                    <p class="header-text" style="padding-top: 0px;">Scroll to reveal</p>
                 </div>
             </header>
 
