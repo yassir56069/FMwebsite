@@ -1,0 +1,13 @@
+<svg width="56" height="59" viewBox="0 0 56 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon">
+<rect width="56" height="58" transform="translate(0 0.720703)" fill="#00CA3A"/>
+<g id="electric_bolt">
+<mask id="mask0_997_8432" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="16" y="17" width="24" height="25">
+<rect id="Bounding box" x="16" y="17.7207" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_997_8432)">
+<path id="electric_bolt_2" d="M23.3366 39.2301L27.3558 31.9705L19.5 31.0186L31.125 20.2109H32.6827L28.6153 27.4801L36.5 28.4225L24.875 39.2301H23.3366ZM27.5307 34.6418L33.1327 29.5321L26.2346 28.7109L28.4731 24.7955L22.8673 29.9148L29.7403 30.7494L27.5307 34.6418Z" fill="#211E73"/>
+</g>
+</g>
+</g>
+</svg>
