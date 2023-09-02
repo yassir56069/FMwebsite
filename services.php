@@ -9,17 +9,12 @@
         </head>
         <body>
             <!-- navigation-bar -->
+
+            <?php 
+            include_once 'header.php';
+            ?>
+            
             <div class="services-header-section">
-                <div class="navigation-bar">
-                    <img class="logo" src="assets/FM_logo.png" onclick="window.location.href='home.php'" alt="Fantastic Mind Logo">
-                    <div class="page-link">
-                        <a href="about_us.php">about us</a> 
-                        <a href="services.php">services</a> 
-                        <a href="iot_solution.php">iot solution</a> 
-                        <a href="r&d_use_case.php">research & design</a>
-                    </div>
-                    <button class="o-btn">Contact Us</button>
-                </div>
                 <div class="header-text">
                     <h2>
                         services that <br />

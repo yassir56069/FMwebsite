@@ -18,9 +18,6 @@
             
 
             <div class="AU-header-section">
-
-                <!-- complaince for new nav position -->
-                <br><br><br> 
                 <div class="header-text">
                     <h2>
                         40+ years of <br />

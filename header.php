@@ -21,7 +21,7 @@ session_start();
         $rnd_usecase    = 'r&d_use_case.php';
 
             echo '<li>';
-            echo '<a  class="page-link" href="{$about_us}">about us</a>';
+            echo '<a  class="page-link" href="about_us.php">about us</a>';
             echo '</li>';
             echo '<li>';
             echo '<a class="page-link" href="services.php">services</a>';
