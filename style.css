@@ -10,6 +10,7 @@ body::-webkit-scrollbar{
 .AU-header-section {
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -23,6 +24,7 @@ body::-webkit-scrollbar{
 .IJ-header-section {
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -36,6 +38,7 @@ body::-webkit-scrollbar{
 .ic-header-section{
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -49,6 +52,7 @@ body::-webkit-scrollbar{
 .DE-header-section {
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -62,6 +66,7 @@ body::-webkit-scrollbar{
 .services-header-section {
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -75,6 +80,7 @@ body::-webkit-scrollbar{
 .FB-header-section {
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -89,6 +95,7 @@ body::-webkit-scrollbar{
 .home-header-section {
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -103,6 +110,7 @@ body::-webkit-scrollbar{
 .rd-header-section{
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -116,6 +124,7 @@ body::-webkit-scrollbar{
 .pf-header-section{
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -129,6 +138,7 @@ body::-webkit-scrollbar{
 .insuretech-header-section{
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -142,6 +152,7 @@ body::-webkit-scrollbar{
 .Contact_us-header-section{
     display: flex;
     width: 100%;
+    height: 100vh;
     contain: layout;
     flex-direction: column;
     align-items: center;
@@ -364,7 +375,7 @@ h2{
 .wsection{
     width: 100%;
     background-color: #FFF;
-    height: 700px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -375,7 +386,7 @@ h2{
 /* blue background section */
 .bsection{
     width: 100%;
-    height: 700px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -387,7 +398,7 @@ h2{
 /* gradient background section */
 .gsection{
     width: 100%;
-    height: 700px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
