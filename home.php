@@ -14,10 +14,14 @@
             ?>
             <!-- navigation-bar -->
             <header class="home-header-section">
-                <div class="header-text">
-                    <img style="height: 192px; width: 192px;padding-bottom: px;" src="assets/play_circle.svg" alt="play">
-                    <img style="height: 24px; width: 24px;" src="assets/expand_less.svg" alt="expand less">
-                    <p class="header-text" style="padding-top: 0px;">Scroll to reveal</p>
+                <div class="v-container">
+                    <div class="header-text">
+                        <img style="height: 192px; width: 192px;" src="assets/play_circle.svg" alt="play">
+                        <img style="height: 24px; width: 24px;padding-top: 150px;" src="assets/expand_less.svg" alt="expand less">
+                        <p>
+                            Scroll to reveal
+                        </p>
+                    </div>
                 </div>
             </header>
 

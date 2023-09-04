@@ -1,3 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/source-sans-pro');
+@import url('https://fonts.cdnfonts.com/css/roboto');
+
 *{
     margin: 0px;
     padding: opx;
@@ -97,7 +100,6 @@ body::-webkit-scrollbar{
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.70) 100%), url(assets/homepage.png), lightgray 50% / cover no-repeat;
     background-size: cover;
     background-position: center;
-
 }
 
 .rd-header-section{
@@ -285,12 +287,6 @@ a{
     text-transform: uppercase;
 }
 
-/* hover effect for navigation bar */
-.page-link a:hover{
-    color: var(--hover-color, #FB3E00);
-
-}
-
 .megamenu {
     display: none;
 }
@@ -342,10 +338,8 @@ h2{
 .header-text{
     display: flex;
     flex-direction: column;
-    height: 593px;
+    width: 593px;
     align-items: center;
-    align-self: stretch;
-    margin-top: 320px;
     border-radius: var(--button-button-corner-radius, 0px);
 }
 
