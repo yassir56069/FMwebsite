@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        
+
         <?php 
         include_once 'header.php';
         ?>
@@ -16,7 +16,7 @@
 
         <div class="Contact_us-header-section">
             <div class="h-container" style="width:1108px;position:absolute;margin-top: 278px;">
-                <div class="v-container">
+                <div class="v-container" style="padding-right:48px";>
                     <h2 style="text-align: left;">
                         CONTACT US
                     </h2>
