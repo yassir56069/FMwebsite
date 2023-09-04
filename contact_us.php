@@ -29,14 +29,32 @@
                 </div>
 
                 <div class="v-container">
-                    <form class="contactform">
-                        <label class="HT-bold cf-title"> READY TO CONQUER YOUR DIGITAL CHALLENGES? </label>
-                        <input type="text" class="cfinput" placeholder="Full name*" style="margin-top: 32px;" required>
-                        <input type="text" class="cfinput" placeholder="Email Address*" required>
-                        <input type="text" class="cfinput" placeholder="Phone*" required>
-                        <input type="text" class="cfinput message" placeholder="Message">
-                        <button type="submit" class="o-btn cu-btn" style="float: right;">Submit</button>
-                     </form>
+
+                
+        <form class="contactform" action="./includes/contact.inc.php" method="post">
+            <?php
+
+                if (isset($_GET['status'])) 
+                {
+                    if ($_GET['status'] == 'contact')
+                    { 
+                        include_once 'contact_us_submission.php';
+                    }
+                }
+                else
+                {
+                    echo "
+                    <label class='HT-bold cf-title'> READY TO CONQUER YOUR DIGITAL CHALLENGES? </label>
+                    <input type=textarea class=cfinput placeholder=Full name* style=margin-top: 32px; required>
+                    <input type=textarea name='email' class=cfinput placeholder=Email Address* required>
+                    <input type=textarea name='phonenum' class=cfinput placeholder=Phone* required>
+                    <input type=textarea name='msg' class='cfinput message' placeholder='Message' >
+                    <button type='submit' name='submit' class='o-btn cu-btn' style='float: right;'>Submit</button>
+                    ";
+                }
+            ?>
+
+        </form>
                 </div>
             </div>
         </div>
