@@ -232,7 +232,7 @@
                                     Exciting <br />
                                     Opportunities Await
                                 </p>
-                                <button class="o-btn" style="margin-left: 147px;"> Join us</button>
+                                <button class="o-btn" style="margin-left: 125px;"> Join us</button>
                             </div>
                             <img style="height: 173px;margin-right: 33px;" src="assets/footer_line.svg" alt="line">
                             <div class="slides">
