@@ -144,10 +144,11 @@ body::-webkit-scrollbar{
 .Contact_us-header-section{
     display: flex;
     width: 100%;
-    height: 100vh;
+    height: 40vh;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-top: 320px;
     border-radius: var(--button-button-corner-radius, 0px);
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.70) 100%), url(assets/contact_us_header.png), lightgray 50% / cover no-repeat;
     background-size: cover;
@@ -514,6 +515,48 @@ h2{
     text-transform: uppercase;
 }
 
+/*Contact us Form*/
+.contactform{
+    display: inline-block;
+    flex-direction: column;
+    padding: 48px;
+    align-items: flex-start;
+    gap: 64px;
+    border-radius: var(--button-button-corner-radius, 0px);
+    background: var(--Footer-bg, #F9F9FB);
+    box-shadow: 0px 4px 12px 0px rgba(2, 0, 90, 0.50);
+}
+
+.message{
+    height: 158px;
+}
+
+.cu-btn{
+    background: #BFBEC0;
+    color: #3A383B;
+    opacity: 0.62;
+    margin-top: 16px;
+}
+
+.cfinput{
+    display: flex;
+    padding: 16px 12px;
+    margin-bottom: 16px;
+    align-items: center;
+    gap: 8px;
+    float: left;
+    width: 100%;
+    align-self: stretch;
+    border-radius: 4px;
+    border: 1px solid var(--outline, #605D62);
+    color: var(--on-surface-variant, #3A383B);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    letter-spacing: 0.5px;
+}
 
 /* head text in bold */
 .HT-bold{
@@ -540,6 +583,9 @@ h2{
     padding-bottom: 24px;
 }
 
+.cf-title{
+    font-size: 36px;
+}
 
 /* horizontal container  */
 .h-container{
