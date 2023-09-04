@@ -42,7 +42,7 @@ session_start();
         <section class="megamenu">
                     TEST 
         </section>
-        <button class="o-btn nav-button">Contact Us</button>
+        <button class="o-btn nav-button" onclick="window.location.href='contact_us.php'">Contact Us</button>
     </div>
 </nav>
 
