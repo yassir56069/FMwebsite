@@ -8,10 +8,10 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-<!-- 
+        
         <?php 
         include_once 'header.php';
-        ?> -->
+        ?>
         
 
         <div class="Contact_us-header-section">
