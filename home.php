@@ -12,18 +12,9 @@
             <?php 
             include_once 'header.php';
             ?>
-            <!-- navigation-bar -->
-            <header class="home-header-section">
-                <div class="v-container">
-                    <div class="header-text">
-                        <img style="height: 192px; width: 192px;" src="assets/play_circle.svg" alt="play">
-                        <img style="height: 24px; width: 24px;padding-top: 150px;" src="assets/expand_less.svg" alt="expand less">
-                        <p>
-                            Scroll to reveal
-                        </p>
-                    </div>
-                </div>
-            </header>
+            <!-- head section -->
+            
+            
 
              <!-- home section 2 (creative,innovative and playful ) -->
 
