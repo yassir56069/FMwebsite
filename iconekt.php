@@ -43,7 +43,7 @@
                     </div>
                     <img src="assets/iconekt logo (for dark bkg).svg" alt="Iconekt Logo" style="width: 385px;float: right;">
                 </div>
-                <ul class="fbrot">
+                <ul class="fbrot" style="margin-top: 128px;">
                     <li class='rotblock'> 
                             <img class="rotsvg" src="assets/iconekt_Flashbuild.svg" alt="FlashBuild"> 
                             <p class='rottext'>
@@ -216,7 +216,7 @@
                                 <br/>
                                 Beyond instant gains, innovation champions sustainability. Witness ecology and technology unite, seamlessly. Cultivate sustainability, reducing impact while boosting prosperity. Explore a journey guided by data, from nurturing vines to harvesting fruits. This is agriculture's future – nature and tech, harmoniously intertwined.
                             </p>
-                            <button class="b-btn" style="width: 151px;">View case study</button>
+                            <!--<button class="b-btn" style="width: 151px;">View case study</button>-->
                         </div>
                         <img style="width: 563px;margin-left: 32px;" src="assets/grenadine.png" alt="grenadine">
                     </div>
@@ -236,7 +236,7 @@
                             <p class="body-text" style="width: 393px;height: 160px;margin-bottom: 32px;margin-top: 32px;">
                                 Step into a smarter home, where IoT transforms living. Discover our sensors that meticulously track energy consumption, delivering cost-efficient solutions. Experience advanced security management through AI cameras and openings monitoring. Moreover, enjoy optimal comfort with temperature and humidity control. Dive into intelligent pool management with energy-efficient pump usage, real-time chlorine & Ph monitoring, and water level tracking. Energy control?
                             </p>
-                            <button class="b-btn" style="width: 151px;">View case study</button>
+                            <!--<button class="b-btn" style="width: 151px;">View case study</button>-->
                         </div>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
                                 <br/>
                                 These proof-of-concept demonstrations showcase the transformative power of IoT. Each scenario emphasizes efficiency, sustainability, and cutting-edge solutions. At the heart of it all lies our commitment to shaping a smarter, more connected future across industries.
                             </p>
-                            <button class="b-btn" style="width: 151px;">View case study</button>
+                            <!--<button class="b-btn" style="width: 151px;">View case study</button>-->
                         </div>
                         <img style="width: 563px;margin-left: 47px;margin-top: 10px;height: 419px;" src="assets/InsureTech-ic.png" alt="worker">
                     </div>

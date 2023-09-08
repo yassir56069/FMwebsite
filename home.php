@@ -114,8 +114,8 @@
 
              <!-- home section 5 (iconekt) -->
 
-            <div class="bsection">
-                <div class="v-container" style="justify-content: left;position: relative;">
+            <div class="bsection" style="justify-content: center;">
+                <div class="v-container" style="justify-content: center;position: relative;">
                     <img style="width: 949px; padding-bottom: 32px;" src="assets/Bold statement.svg" alt="iconekt">
                     <p class="g-head-text">
                         data as a service
